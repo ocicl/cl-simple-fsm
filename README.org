@@ -2,9 +2,8 @@
 
 Easy and explicit finite state machines in Common Lisp.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/isoraqathedh/cl-simple-fsm.git   |
-| commit  | 5812a63  |
-| systems | cl-simple-fsm |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------------------------|
+| source  | git:https://github.com/isoraqathedh/cl-simple-fsm.git |
+| commit  | 5812a63                                               |
+| systems | (finite-state-machine)                                |
+|---------+-------------------------------------------------------|
